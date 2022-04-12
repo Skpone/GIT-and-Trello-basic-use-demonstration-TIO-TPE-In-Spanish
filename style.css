@@ -50,7 +50,7 @@ article {
   transition: all 0.1s ease 0s;
 }
 .links li a:hover {
-  background-color: rgb(255, 236, 220);
+  background-color: #9e3ea9;
   border-radius: 4px;
   padding: 1px;
 }
